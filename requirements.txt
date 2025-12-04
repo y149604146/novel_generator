@@ -1,0 +1,7 @@
+beautifulsoup4==4.14.2
+Flask==2.2.5
+Flask_RESTful==0.3.9
+flask_swagger_ui==4.11.1
+Markdown==3.10
+openai==2.8.1
+python_docx==1.2.0
